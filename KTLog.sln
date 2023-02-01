@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTLog", "KTLog\KTLog.csproj", "{670C71BB-BE61-4685-BC81-AF306C0508AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogTester", "LogTester\LogTester.csproj", "{7F3C48F4-C0A0-4009-BE32-B254A64B01CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670C71BB-BE61-4685-BC81-AF306C0508AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670C71BB-BE61-4685-BC81-AF306C0508AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670C71BB-BE61-4685-BC81-AF306C0508AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670C71BB-BE61-4685-BC81-AF306C0508AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3C48F4-C0A0-4009-BE32-B254A64B01CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3C48F4-C0A0-4009-BE32-B254A64B01CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3C48F4-C0A0-4009-BE32-B254A64B01CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3C48F4-C0A0-4009-BE32-B254A64B01CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

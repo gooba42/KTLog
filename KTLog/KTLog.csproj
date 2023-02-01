@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net481;net6.0</TargetFrameworks>
+        <LangVersion>default</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>KT Log</Title>
+        <Authors>Kyle J Turpin</Authors>
+        <Description>Simple logging library</Description>
+        <Copyright>2022</Copyright>
+    </PropertyGroup>
+
+</Project>
